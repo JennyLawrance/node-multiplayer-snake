@@ -20,7 +20,6 @@ Install the latest [Node.js](http://nodejs.org) 8 Stable
 `npm start`   
 .
 
-
 Open your web browser to `localhost:3000`
 .
 
